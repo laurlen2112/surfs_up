@@ -2,8 +2,8 @@
 
 ## Overview:
 
-This analysis parses Hawaiian weather data to determine if a surf/ice cream shop is a sustainable year-round venture.  In order to determine the viability of this business venture, summary statistics were computed on weather data for the months of [June](https://github.com/laurlen2112/surfs_up/blob/main/resources/june_query.png) and [December](https://github.com/laurlen2112/surfs_up/blob/main/resources/dec_query.png).  
-
+To determine the feasibility of a year-round surf/ice cream shop in Hawaii, an analysis was conducted that involved parsing weather data. The weather data for the months of [June](https://github.com/laurlen2112/surfs_up/blob/main/resources/june_query.png) and [December](https://github.com/laurlen2112/surfs_up/blob/main/resources/dec_query.png).   were used to calculate summary statistics, with the goal of assessing the sustainability of this business venture.
+ 
 ## Results:
 * With an average temperature of approximately 75 degrees in [June](https://github.com/laurlen2112/surfs_up/blob/main/resources/june_stats.png) and 71 degrees in [December](https://github.com/laurlen2112/surfs_up/blob/main/resources/dec_stats.png), a year-round surf/ice cream shop could potentially be a viable business venture. Both months have an average temperature above 70 degrees, and warmer weather typically encourages consumers to participate in outdoor activities and enjoy cold treats.
 
